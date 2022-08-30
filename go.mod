@@ -34,6 +34,8 @@ require (
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
 )
 
+require github.com/savioxavier/termlink v1.2.1
+
 require (
 	github.com/MichaelMure/go-term-text v0.2.7 // indirect
 	github.com/alecthomas/chroma v0.7.1 // indirect
@@ -52,6 +54,7 @@ require (
 	github.com/imdario/mergo v0.3.5 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.10 // indirect
+	github.com/jwalton/go-supportscolor v1.1.0 // indirect
 	github.com/klauspost/compress v1.4.1 // indirect
 	github.com/klauspost/cpuid v1.2.0 // indirect
 	github.com/kyokomi/emoji v2.1.0+incompatible // indirect
